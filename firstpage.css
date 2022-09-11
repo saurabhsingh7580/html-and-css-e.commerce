@@ -1,0 +1,83 @@
+
+body{
+    
+    padding: 0px;
+    background-repeat :no-repeat;
+    background-size: 1200px;
+ /* display: flex;  */
+    background-image: url("pexels-sound-on-3394665.jpg");
+    opacity: o.2;
+    /* margin-top: 200px; */
+    }
+    
+    .list{
+        margin-left: 35px;
+        list-style: none;
+        color: rgb(0, 0, 0);
+        /* padding-left: 50px; */
+    }
+    .home{
+        margin-left: -20px;
+        margin-bottom:-50px;
+    }
+    .shop{
+        color:rgb(0, 0, 0);
+        margin-left: -25px;
+        text-decoration: none;
+    }
+    .ouestory{
+         margin-left: 20px; 
+        /* text-decoration: none; */
+        color:rgb(0, 0, 0);text-decoration:none;
+        /* color: azure; */
+    }
+    .blog{
+    /* margin-left: 70px; */
+    color:rgb(0, 0, 0);
+    margin-left: 30px;
+    text-decoration: none;
+    }
+    
+    .hester{
+    
+    /* margin-left: -90px; */
+    color:rgb(0, 0, 0);
+    align-items: center;
+    margin-top: -30px;
+        margin-left: 440px;
+        text-decoration: none;
+    }
+    .login{
+    margin-left: 310px;
+    color:rgb(0, 0, 255);
+    text-decoration: none;
+    margin-top: 10px;
+    
+    }
+    
+
+
+a:hover{
+
+color:rgb(25, 0, 255);
+
+}
+.list{
+color:azure;
+    margin-bottom: 200px;
+}
+.list1{
+text-align: center;
+margin-left: -50px;
+border-radius: 10px;
+/* background-color: rgb(255, 255, 255);  */
+border: 2px;
+}
+.contener{
+
+    margin-top: 450px;
+    flex-direction: row;
+}
+.card10{
+    background-color: rgb(255, 167, 167);
+}

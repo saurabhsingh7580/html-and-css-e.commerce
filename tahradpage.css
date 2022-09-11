@@ -1,0 +1,129 @@
+body{
+    
+    /* padding: 50px; */
+    background-repeat :no-repeat;
+    background-size: 1200px;
+    /* display: flex; */
+    background-image: url("pexels-sound-on-3394665.jpg");
+    opacity: o.2;
+    /* margin-top: 200px; */
+    }
+    
+    .list{
+        margin-left: 35px;
+        list-style: none;
+        color: rgb(0, 0, 0);
+        /* padding-left: 50px; */
+    }
+    .home{
+        margin-left: -20px;
+        margin-bottom:-50px;
+    }
+    .shop{
+        color:rgb(0, 0, 0);
+        margin-left: -25px;
+        text-decoration: none;
+    }
+    .ouestory{
+         margin-left: 20px; 
+      
+        color:rgb(2, 2, 2);text-decoration:none;
+       
+    }
+    .blog{
+   
+    color:rgb(0, 0, 0);
+    margin-left: 30px;
+    text-decoration: none;
+    }
+    
+    .hester{
+    
+    
+    color:rgb(0, 0, 0);
+    align-items: center;
+    margin-top: -32px;
+        margin-left: 430px;
+        text-decoration: none;
+    }
+    .logout{
+    margin-left: 350px;
+    color:rgb(8, 8, 8);
+    text-decoration: none;
+    
+    }
+    
+    
+    a:link{
+        color:rgb(0, 0, 255);
+    }
+    a:visited{
+    color:rgb(0, 0, 0)
+    
+    
+    }
+    a:hover{
+    
+    color:rgb(25, 0, 255);
+    
+    }
+    .list{
+    color:azure;
+        margin-bottom: 200px;
+    }
+    .list1{
+    text-align: center;
+    margin-left: -50px;
+    border-radius: 10px;
+   
+    border: 2px;
+    }
+    .contener{
+    
+        margin-top: 500px;
+        flex-direction: row;}
+    .contener1{margin-left: 1150px;
+background-color: rgba(255, 128, 128, 0.815);
+
+
+    }
+    .contener2{
+margin-top: -305px;
+background-color:rgb(255,153,153) ;
+
+    }
+    .contener3{
+        margin-top: -305px;
+        
+            }
+            .contener4{
+                margin-left:580px;
+                
+                    }
+    .class{
+        margin-left: 200px;
+    }
+    .raj1{
+        background-color:blue;
+        color: azure;
+        border-top-left-radius: 10px;
+    }
+    .card10{
+        background-color: rgb(255,153,153);
+        
+        }
+        .card11{
+        
+            margin-left: 1000px;
+            margin-top: -200px;
+            background-color: rgb(255,153,153);
+        }
+        .card12{
+            margin-left: 1000px;
+        }
+        .card13{
+            margin-left: 1000px;
+        }
+        .singh0{
+            margin-right: 70px;
+        }
